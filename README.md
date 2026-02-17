@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Andrey Perestyuk</h1>
-<h3 align="center">Backend Developer from Rivne, Ukraine</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=97266D&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;Python+%7C+PHP+%7C+JavaScript;Linux+Enthusiast+%F0%9F%90%A7;Arctic+Code+Vault+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://arrathilar.github.io">
@@ -12,7 +17,7 @@
 
 ---
 
-### About me
+### 🧑‍💻 About me
 
 - Backend developer with experience in **Magento 2**, **Python**, **JavaScript**
 - Interested in graphics programming, Linux ricing, and system automation
@@ -20,7 +25,7 @@
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,26 +42,27 @@
 
 ---
 
-### GitHub Stats
+### 🔥 Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arrathilar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrathilar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arrathilar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Arrathilar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### Snake eating my contributions
+### 📈 Activity Graph
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arrathilar/Arrathilar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arrathilar/Arrathilar/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arrathilar/Arrathilar/output/github-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arrathilar&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🌆 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 ---
 
