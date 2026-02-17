@@ -10,9 +10,6 @@
   <a href="https://arrathilar.github.io">
     <img src="https://img.shields.io/badge/Blog-arrathilar.github.io-97266d?style=for-the-badge&logo=gatsby&logoColor=white" alt="Blog" />
   </a>
-  <a href="https://t.me/arrathilar">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
 </p>
 
 ---
